@@ -1,0 +1,11 @@
+## Produce artifacts:
+
+```bash
+    makepkg --printsrcinfo > .SRCINFO
+```
+
+## Install:
+
+```bash
+    makepkg -si 
+```

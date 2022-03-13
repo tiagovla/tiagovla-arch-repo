@@ -1,0 +1,11 @@
+pkgbase = neovim
+	pkgver = nightly
+	pkgrel = 1
+	url = https://github.com/tiagovla/tokyodark.nvim.git
+	arch = x86_64
+	arch = i686
+	license = GPL
+	source = git+https://github.com/tiagovla/tokyodark.nvim.git
+	md5sums = SKIP
+
+pkgname = neovim
