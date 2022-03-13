@@ -9,3 +9,4 @@
 ```bash
     makepkg -si 
 ```
+ https://raw.githubusercontent.com/tiagovla/tiagovla-arch-repo/main/builds
